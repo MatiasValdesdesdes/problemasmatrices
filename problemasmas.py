@@ -1,3 +1,10 @@
+#Matias Valdes Jose Ignacio
+#Caamal Pat Jesus Fernando
+#Velazquez Chi Alex Jhovani
+
+
+
+
 #1
 def eliminar_elemento(arreglo, elemento):
     nuevo_arreglo = [] 
